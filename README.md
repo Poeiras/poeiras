@@ -8,7 +8,7 @@
 
 - 🌱 Estou estudando **Ciência da Computação**
 
-- 👯 Queria coloborar em projetos de **Front-End**
+- 👯 Queria coloborar em projetos de **Data Analytics, Python**
 
 - 🤝 Sempre quero e preciso de ajuda com **Bases de dados e SQL**
 
